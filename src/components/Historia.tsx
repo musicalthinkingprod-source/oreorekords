@@ -48,7 +48,7 @@ export default function Historia() {
             <SectionTitle
               label="Nuestra Historia"
               title="Un sello que construye legados"
-              subtitle="Oreo Rekords nació en Bogotá con una misión clara: producir música colombiana y llevarla al mundo."
+              subtitle="Oreo Rekords nació en Bogotá con una misión clara: producir música y llevarla al mundo."
             />
             <p className="text-zinc-400 leading-relaxed mb-6">
               Somos un sello independiente que trabaja con artistas de todos los géneros —salsa, cumbia, bolero,

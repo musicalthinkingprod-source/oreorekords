@@ -106,7 +106,7 @@ export default function Hero() {
             transition={{ duration: 0.7, delay: 0.3 }}
             className="text-zinc-400 text-sm md:text-base max-w-xl leading-relaxed mt-4 mb-6"
           >
-            Música colombiana producida en Bogotá y disponible en todas las plataformas: salsa, cumbia, bolero, balada y mucho más.
+            Música producida en Bogotá y disponible en todas las plataformas: salsa, cumbia, bolero, balada y mucho más.
           </motion.p>
 
           <motion.div
