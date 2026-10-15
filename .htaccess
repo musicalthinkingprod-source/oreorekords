@@ -1,0 +1,27 @@
+# === Página 404 del export estático ===
+ErrorDocument 404 /404.html
+
+# === Tipos MIME (por si el servidor no reconoce estos formatos) ===
+AddType image/svg+xml .svg
+AddType image/webp .webp
+AddType font/woff2 .woff2
+
+# === Compresión (acelera la carga de texto/JS/CSS) ===
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/css application/javascript application/json image/svg+xml
+</IfModule>
+
+# === Caché de archivos estáticos ===
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/jpeg "access plus 1 week"
+  ExpiresByType image/png "access plus 1 week"
+  ExpiresByType image/webp "access plus 1 week"
+  ExpiresByType image/svg+xml "access plus 1 week"
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+  ExpiresByType font/woff2 "access plus 1 year"
+</IfModule>
+
+# === Seguridad: bloquear acceso a la carpeta .git ===
+RedirectMatch 404 /\.git
