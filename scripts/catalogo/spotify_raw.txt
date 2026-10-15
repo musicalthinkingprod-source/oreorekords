@@ -1,0 +1,181 @@
+2|https://open.spotify.com/album/3UtiAIPUurCLEfoU91wwlH|Pídeme La Luna|Grupo Pasión Kumbiera|2026|upc
+5|https://open.spotify.com/album/7hwG9VukYGRY5kSxoIvxP8|A Bailar Rocketon|Orquesta La Pesada|2015|upc
+6|https://open.spotify.com/album/3lixL6CYR4xgUXqbXdF99I|qUiÉrEmE|Bermudas|2026|titulo
+7|https://open.spotify.com/album/78U6ofnNfRKTGigk34UERV|Tropicalísima|Orquesta La Pesada|2015|upc
+8|https://open.spotify.com/album/2LCypiJRMQp6VLOExNaGFA|Anoche La Ví|Grupo Urban Mix|2026|upc
+9|https://open.spotify.com/album/5eExkrxSh4aWQWz4H2Un1L|A Ritmo De Son Cubano|Grupo Kubason|2016|upc
+10|https://open.spotify.com/album/0aMKN3NtFizaWjCygrXviw|Esta Noche|Grupo Magick Blue|2026|upc
+11|https://open.spotify.com/album/5izVK5axvuEjmr0vGl4tyK|Sutílmente|Amanda Muñoz|2016|upc
+12|https://open.spotify.com/album/3vWfutwTwwrQTWqGPw9duO|De Tu Boca|Varios Artistas|2023|titulo
+13|https://open.spotify.com/album/1DR3DK3aB25ap0hMwunPA8|Un Piano Y Una Voz, Vol.1|Nestor Neira|2015|upc
+14|https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn|Hoy|Valentino Merlo|2024|titulo
+16|https://open.spotify.com/album/2RKVcydKNgUT4LwAcc7ebT|Soy Lo Que Quiero|Keyla Lions|2026|upc
+19|https://open.spotify.com/album/4OXU6gfpAq8xwlu1kvZ7zo|Clasicos Modernos y Cubanismos (En Concierto)|Nestor Neira|2016|upc
+20|https://open.spotify.com/album/0LgF7w9F4PpK91KmKyiUbC|Tributo A Los 70´S Vol. 1|Grupo Los Chachos|2026|upc
+21|https://open.spotify.com/album/6p2WxVmAElYxaUhwEEqF83|Lo Nuevo Y Lo Mejor|Orquesta La Pesada|2016|upc
+22|https://open.spotify.com/album/7IctqvoYbQidR7btZLQHdq|New Concept|Grupo In Koncert|2026|titulo
+23|https://open.spotify.com/album/07oG3PXHjy1aqCY403m4OQ|Agíte De Fín De Siglo|Orquesta La Pesada|2015|upc
+24|https://open.spotify.com/album/3mtqyn4qWFmH9RbiZ7rLFs|The Urban|Grupo In Koncert|2026|titulo
+26|https://open.spotify.com/album/3enOzhptu1rIKdrPn3bHjj|Krescendo Classick|Diego Garcia|2026|upc
+28|https://open.spotify.com/album/1hLA9yADXqpIeF2AsGU5Ae|Tropicalisima|Orquesta La Banda Sonora|2026|titulo
+29|https://open.spotify.com/album/4ABsmEO6WlLyb9dZkYgzmr|La Pesada Con Todos Los Juguetes|Nestor Neira|2016|upc
+30|https://open.spotify.com/album/2bLXeen1xhnrrYyAftjYbv|La Pareja Ideal|Grupo La Pareja Ideal|2026|upc
+34|https://open.spotify.com/album/2cH4kjlmc3FAEV8VV3f5dJ|Eres TODO Para Mí|Dúo Devia|2023|titulo
+36|https://open.spotify.com/album/6ObNzzrrOdhEnUkt43eMWn|A Ritmo De Sonora Vol. 1|Orquesta La Pesada|2026|upc
+37|https://open.spotify.com/album/724PYXb1LImUciYJfloTq8|Grandes Éxitos|Orquesta Internacional Los Niches|2015|titulo
+39|https://open.spotify.com/album/2X1YpuNC1zVD2GXTLPzeCN|GOZADERA TOTAL|Salsa Brothers|2017|upc
+40|https://open.spotify.com/album/4LZiGIUqjW2qrFscynTQ8q|Explorando|Nestor Neira|2026|upc
+41|https://open.spotify.com/album/1t4ipYmUWRjt6GXvCQcpEp|LO MEJOR DE LA SALSA|Nestor Neira|2024|upc
+42|https://open.spotify.com/album/1HmqXKDWTjBVXB6ezVWWwp|Merengazos Vol. 1|La Banda Del Merengue|2026|upc
+44|https://open.spotify.com/album/4k1FQz8zSIuy6CmPEcNLtL|Merengazos Vol. 2|La Banda Del Merengue|2026|upc
+45|https://open.spotify.com/album/42E74jp0YAXCPeC5C6L7XE|GRACIAS JOE|Orquesta La Pesada|2016|upc
+47|https://open.spotify.com/album/5ZANh6yyIYRp29MH7BgJge|Himnos Del Mundo, Vol.1|Doktor Korazón|2015|upc
+48|https://open.spotify.com/album/1NUsvSutW8FCXKZDvKRHOp|Salsibiri|Grupo Salsibiri|2026|upc
+50|https://open.spotify.com/album/72gAv1xD0RWO112QTtM2xb|Grupo Krescendo Brass, Vol. 2|Krescendo Brass|2026|titulo
+51|https://open.spotify.com/album/6Ch5eB6lB1hid9Ru2WAuYY|Grandes Boleros Vol. 2|Nestor Neira|2026|upc
+53|https://open.spotify.com/album/0CGoLce9Sp9l3ZszW0q1kq|Grandes Boleros, Vol.3|Nestor Neira|2016|upc
+54|https://open.spotify.com/album/5jhycuvRSgx9QWiXDT8Acz|Explorando, vol. 2|Nestor Neira|2026|upc
+55|https://open.spotify.com/album/3UIQBSK5y7kei2HF0cr7rT|En Tiempo De Bolero, Vol.2|Amanda Muñoz|2015|upc
+56|https://open.spotify.com/album/7DpIFfnJjRP58ZgKd0UvUk|Las Reinas de Trópico Vol.2|Amanda Muñoz|2026|upc
+57|https://open.spotify.com/album/1iUMpBoLnSIqsxsuwHMl1H|Grandes Boleros, Vol.6|Nestor Neira|2016|upc
+58|https://open.spotify.com/album/19JpEkSdhaklgpE4CxGF7K|Tropicalisima Vol.2|Orquesta La Pesada|2026|upc
+59|https://open.spotify.com/album/13fG7yS1GLzU0mly5jjO8Q|Grandes Boleros, Vol.5|Nestor Neira|2016|upc
+60|https://open.spotify.com/album/0t9geE7yknG2Nm5ydAc36m|Baladas Inolvidables Vol. 3|Nestor Neira|2026|upc
+61|https://open.spotify.com/album/143rzEDQSTf1KdyUrUfro4|Grandes Boleros, Vol.4|Nestor Neira|2016|upc
+62|https://open.spotify.com/album/7im3oKx1zZx9wgpAtWKSmr|Néstor Neira Y Salsaoko (Sesión En Vivo)|Néstor Neira y SALSAOKO|2024|upc
+64|https://open.spotify.com/album/0A819qpfHFNhJcyQwiCK7p|Grandes Boleros, Vol.1|Nestor Neira|2016|upc
+66|https://open.spotify.com/album/7s91OjhulVvSc0xjfXY0Oc|Afirmaciones De Relajación, Vol.1|Doktor Korazón|2015|upc
+67|https://open.spotify.com/album/132k7wRps2pom1QGB7wCYB|Un Viaje Por Colombia|Tuky Tuky Jazz Band|2026|upc
+69|https://open.spotify.com/album/1nJ2rRKRuogwyAc2E2iO6Z|Elektroakústik Bandas Sonoras Vol. 2|Grupo Elektroakustik|2026|upc
+71|https://open.spotify.com/album/0Sy2fOndowOpYO534jd0za|Époka Tributo A Los Años Maravillosos La Balada Vol. 2|Grupo Époka|2026|upc
+73|https://open.spotify.com/album/1SD4Ixn7SR6IHcOWmTQTTU|Époka Tributo A Los Años Maravillosos La Balada Vol. 3|Grupo Époka|2026|upc
+75|https://open.spotify.com/album/4vlOvsp1xQHxpLuWsVKjhb|Tributo A Los 70's Vol. 2|Grupo Los Chachos|2026|upc
+79|https://open.spotify.com/album/00Vlu9aRZGedBWJlsA51Ns|Kiki Y Su Banda|Kiki Y Su Banda|2026|upc
+87|https://open.spotify.com/album/4Q1GjYHulS284JCNiX0Mtl|Cantémosle a Dios|Karrusel Kids|2026|upc
+89|https://open.spotify.com/album/4MyH8QkuATi1wSPc1pjkzl|Historia Universal Vol. 1|Doktor Korazón|2026|upc
+90|https://open.spotify.com/album/6yCdA3efW6mdpKMuaEJPgS|Cumbia Corazón|Nestor Neira|2017|upc
+91|https://open.spotify.com/album/2XnbojW53zmQSujQHW2fho|Salmos Musicalizados Vol. 4|Doktor Korazón|2026|upc
+92|https://open.spotify.com/album/2zK1WZkJGlMl3gUpJSyrrN|Tributo A Las Grandes Orquestas, Vol.1|Orquesta La Pesada|2016|upc
+93|https://open.spotify.com/album/6ysKkcFivwL9V8v79QNGgk|Música Para Curar El Alma Vol. 1|Doktor Korazón|2026|upc
+94|https://open.spotify.com/album/62vjl0xfUsoJFsbF18qaiI|Tributo A Las grandes Orquestas, Vol.3|Orquesta La Pesada|2016|upc
+95|https://open.spotify.com/album/5SNtPHWJGXpOtFxlvjs0ty|Música Para Curar El Alma Vol. 2|Doktor Korazón|2026|upc
+96|https://open.spotify.com/album/320aBGQhemmmFWxeUOAhIr|Tributo A Las Grandes Orquestas, Vol. 2|Orquesta La Pesada|2024|upc
+97|https://open.spotify.com/album/0subPbb5iUd48pvAK2kMPI|Música Relajante, Vol.1|Doktor Korazón|2026|upc
+98|https://open.spotify.com/album/0Fwl55zSJCvlrtyMJAr22R|Sexy Cumbia|Nestor Neira|2017|upc
+100|https://open.spotify.com/album/4mQkHfLEWxyUknZOOvoNCP|Las Babies De La Cumbia|Nestor Neira|2016|upc
+101|https://open.spotify.com/album/23Pq6CX01pin9HWiBbyvxE|Oraciones Católicas Musicalizadas Vol. 8|Doktor Korazón|2026|upc
+102|https://open.spotify.com/album/6Mwbva4NflWjQJ3AZmMfJn|Cumbia Fucsia|Nestor Neira|2016|upc
+103|https://open.spotify.com/album/0Ll3oIztszJzIM6iA8APqW|Oraciones Católicas Musicalizadas Vol. 7|Doktor Korazón|2026|upc
+104|https://open.spotify.com/album/6Y1mpy28awjMyS0TrftcAv|Ángeles De La Cumbia|Nestor Neira|2016|upc
+105|https://open.spotify.com/album/1S2sUIppN7iraGpHEaY8o6|Oraciones Católicas Musicalizadas Vol. 6|Doktor Korazón|2026|upc
+106|https://open.spotify.com/album/36wUj0S72ZMQdqzksxpoiu|Un Piano Y Una Voz, Vol 2|Nestor Neira|2016|titulo
+107|https://open.spotify.com/album/1aVEt1iUS09OjpAPSrwavh|Oraciones Católicas Musicalizadas Vol. 5|Doktor Korazón|2026|upc
+109|https://open.spotify.com/album/5MR5977qkpjSsWttMyMfjv|Oraciones Católicas Musicalizadas Vol. 4|Doktor Korazón|2026|upc
+110|https://open.spotify.com/album/2HfzD8BL7L6S1jMDgOKdxP|El Rey De La Nueva Kumbia|Néstor Neira El Rey De La Nueva Kumbia|2017|upc
+111|https://open.spotify.com/album/4oK8TSILnNF9uipZhWWgAB|Himnos Del Mundo Vol. 3|Doktor Korazón|2026|upc
+112|https://open.spotify.com/album/6ysKkcFivwL9V8v79QNGgk|Música Para Curar El Alma Vol. 1|Doktor Korazón|2026|upc
+113|https://open.spotify.com/album/7tguFapyAKipeban59lXWC|Fusión Latina|Janio Coronado|2026|upc
+114|https://open.spotify.com/album/5SNtPHWJGXpOtFxlvjs0ty|Música Para Curar El Alma Vol. 2|Doktor Korazón|2026|upc
+115|https://open.spotify.com/album/0XVxW0mbxenlGJ2qryNTlc|Cumbia y Floklore|Janio Coronado|2026|upc
+116|https://open.spotify.com/album/0subPbb5iUd48pvAK2kMPI|Música Relajante, Vol.1|Doktor Korazón|2026|upc
+117|https://open.spotify.com/album/0gDE8NLj72P4ueJZM0bS8U|Fechas Especiales|Karrusel Kids|2026|upc
+118|https://open.spotify.com/album/2XnbojW53zmQSujQHW2fho|Salmos Musicalizados Vol. 4|Doktor Korazón|2026|upc
+119|https://open.spotify.com/album/4XNnyEpN4G26ulwuAqndOv|Mi Salsa Vol.1|Nestor Neira|2026|upc
+121|https://open.spotify.com/album/1Tw1xabx4fqXLMn7qNzXT9|Amigos No Por Favor|Juliana Salazar|2026|upc
+123|https://open.spotify.com/album/79o6T0v4LxR6ifgLGWKTeF|Beautiful|Amanda Muñoz|2026|upc
+125|https://open.spotify.com/album/6UTAxb7eP2NY83zy9OXTN1|Claudia Martinez|Claudia Martinez|2026|upc
+127|https://open.spotify.com/album/3TMDyH9Tgu1cZp8t1bsQME|Violoncello con Corazón|Gina Viacci|2026|upc
+129|https://open.spotify.com/album/0o8EuRPhf3b8AMV65YuY12|Clásicos de La Música Llanera Vol.1|Grupo Atardecer|2026|titulo
+133|https://open.spotify.com/album/7foc96mMToU9MwD3RgeMTp|Mi Salsa Vol 2|Nestor Neira|2026|upc
+135|https://open.spotify.com/album/5iOFPIBUfwCB57rxcroysZ|Mi Salsa Vol 3|Nestor Neira|2026|upc
+137|https://open.spotify.com/album/4zeZdXABcCe4s4xUJrQFFM|Piano Fantástico|Sharon Ferro|2026|upc
+139|https://open.spotify.com/album/6wCrv8ZtWj3dDj8ZYoRACh|Vive el Mundial con Tropical Ladies|Tropical Ladies|2026|upc
+143|https://open.spotify.com/album/14vtLCJkRpKR0yuyHe3hgx|Clásicos de La Música Llanera Vol.2|Grupo Atardecer|2026|titulo
+146|https://open.spotify.com/album/4OENawvhte9g0Nys595oHI|Bandas Sonoras|Bandas Sonoras|2011|upc
+149|https://open.spotify.com/album/3zybQqcBAYxyECr7DN1RiG|Tributo a las Divas del Soul|Mey Manjarrés|2026|upc
+151|https://open.spotify.com/album/22S8f60UKRG8sc2FolauSg|Clásicos del Bolero Vol.1|Grupo Bohemia|2026|upc
+153|https://open.spotify.com/album/6EvlPffJNVb3jWM8MzeJt2|Tropicales Para Bailar Vol. 1|La Gran Banda|2026|upc
+155|https://open.spotify.com/album/6Y4wEaNWzPeuyaYFHPD0po|Trompeta Magica|Juan Carlos Montiel|2026|upc
+157|https://open.spotify.com/album/6RoUC0xbKqf9kjxiNsITrr|Directo al Corazón Vol.2|Grupo Acústico|2026|titulo
+161|https://open.spotify.com/album/54PFccGaptrMCLEqB04Ubt|Tropicales Para Bailar Vol. 2|La Gran Banda|2026|upc
+163|https://open.spotify.com/album/4AfT8BHWy82EWKAquQWuYq|Tribute The Beatles Box|Diego Garcia|2026|upc
+169|https://open.spotify.com/album/0legPosJku6N2fVZTdcJ8a|Canciones Infantiles Vol.2|Karrusel Kids|2023|upc
+170|https://open.spotify.com/album/6Ut479IoBMlG1NaZWloBcB|Un Piano Y Una Voz, Vol.4|Nestor Neira|2025|upc
+171|https://open.spotify.com/album/1fiQifFPm6ttQznEWsfi2M|Rondas Infantiles Vol1|Karrusel Kids|2021|upc
+172|https://open.spotify.com/album/0gdJUKbNHY29OwnZVrrTKy|Un Piano Y Una Voz, Vol.5|Nestor Neira|2025|upc
+173|https://open.spotify.com/album/1fOzqOoAEQClRVSQiuKY9a|Rondas Infantiles Vol 4|Karrusel Kids|2024|upc
+174|https://open.spotify.com/album/0ucYz8yYoACo760agvaxUj|Un Piano Y Una Voz, Vol. 6|Nestor Neira|2025|upc
+175|https://open.spotify.com/album/5AddT3I28Q72inPCLPTzaV|Rondas Infantiles Vol 3|Karrusel Kids|2023|upc
+176|https://open.spotify.com/album/3YPpmgcgsGKhfUY3f7YRhy|Un Piano Y Una Voz, Vol. 7|Nestor Neira|2025|upc
+177|https://open.spotify.com/album/3b66GKR26xvTjUUI8ODDOq|Las Tablas de Multiplicar|Karrusel Kids|2021|upc
+178|https://open.spotify.com/album/437Y5AMDjvnrzxIetScOWW|Un Piano Y Una Voz, Vol. 8|Nestor Neira|2025|upc
+179|https://open.spotify.com/album/1E86bwCl9bR1RbEWgIF8nl|Canciones Infantiles Vol.1|Karrusel Kids|2022|upc
+181|https://open.spotify.com/album/7zYaVjDQCPo2gUwRZ8XiYN|Rondas Infantiles Vol 2|Karrusel Kids|2022|upc
+182|https://open.spotify.com/album/3AS28ZF4e50SptMXlol9Pm|Un Piano Y Una Voz, Vol. 10|Nestor Neira|2025|upc
+183|https://open.spotify.com/album/5uTBwGpzXYh2fa8IEhFblX|Canciones de Navidad|Karrusel Kids|2024|upc
+184|https://open.spotify.com/album/548e0YLqWNmanL5u3BpDzd|Un Piano Y Una Voz, Vol. 11|Nestor Neira|2025|upc
+185|https://open.spotify.com/album/5BXIz1CiS3PVvOhyXcGQ8x|Viva Diciembre|Karrusel Kids|2019|upc
+186|https://open.spotify.com/album/3qEjLk8NApIhBcZwKxPduj|Un Piano Y Una Voz, Vol. 12|Nestor Neira|2025|upc
+187|https://open.spotify.com/album/3IexDeYsArIzLsoi5mC0y4|Villancicos|Karrusel Kids|2018|upc
+188|https://open.spotify.com/album/7qssJdM0lcZx76U4r1kV56|Un Piano Y Una Voz, Vol. 13|Nestor Neira|2025|upc
+189|https://open.spotify.com/album/7qGLbMhgyaACchJdElkzvb|Un Piano Y Una Voz Boleros Inolvidables|Nestor Neira|2025|upc
+190|https://open.spotify.com/album/7MgXuf32sqZRbBGBfmqaQI|Tributo A La Salsa Brava|Néstor Neira y SALSAOKO|2025|upc
+191|https://open.spotify.com/album/37Bz07Sczg7gc1IndUNHl9|Salsa Romántica|Néstor Neira y SALSAOKO|2025|upc
+192|https://open.spotify.com/album/6xiwjyi4mALakxwrlFbfQ0|Tributo A Héctor Lavoe|Néstor Neira y SALSAOKO|2025|upc
+193|https://open.spotify.com/album/48JKXw9iyg3fEvlP7LV2v3|SALSADÉLIKA Fabricando Fantasías|Nestor Neira|2018|upc
+194|https://open.spotify.com/album/2fcc8FflaBmmhsb4d2bzcg|SALSADÉLIKA A Corazón Abierto|Nestor Neira|2018|upc
+195|https://open.spotify.com/album/6LbXieDLyUV5mQmNO0yphg|SALSADÉLIKA A Conciencia|Nestor Neira|2018|upc
+196|https://open.spotify.com/album/691fcIm7LatSqhDWggA8bM|Kanto Celestial Salsa|Nestor Neira|2016|upc
+197|https://open.spotify.com/album/4jd190sU5qjr7S1RhA01XN|Tropical Ladies|Nestor Neira|2015|upc
+199|https://open.spotify.com/album/3XMYHhJCmhJPQyOnHABEA5|Grupo Pop Rolos Band|Nestor Neira|2016|upc
+200|https://open.spotify.com/album/7iyvKSGAJgJwaST4EikNUT|Kanto Celestial|Nestor Neira|2017|upc
+201|https://open.spotify.com/album/5JK36M55r60fK4tKEthx0b|Kanto Celestial Bachata|Nestor Neira|2015|upc
+202|https://open.spotify.com/album/4Wr6tuF8C8aE5z57DDQnZU|Bashatango Clásicos, Vol. 2|Nestor Neira|2016|upc
+203|https://open.spotify.com/album/1BAfYOvVyqhssuRqHJYNHr|Bashatango Clásicos, Vol. 1|Nestor Neira|2016|upc
+204|https://open.spotify.com/album/3OT7IpGGGdmNygrp9ZQyIY|Cumbia Chalchalera|Kuarteto Leyenda|2016|upc
+205|https://open.spotify.com/album/4WVy7Zh0eUX5eLwX3qBcml|Cumbia Visconti|Kuarteto Leyenda|2016|upc
+206|https://open.spotify.com/album/2XevKRZ4Om49JdcA7CYuCn|Kumbiallenato Románticos|Nestor Neira|2016|upc
+207|https://open.spotify.com/album/6IuT5tGZ2chknnV15lYd35|Kumbiallenato Clásicos|Nestor Neira|2016|upc
+208|https://open.spotify.com/album/7IUXy0HhunQJs1JX5Yju3D|Kumbiallenato Nueva Ola|Nestor Neira|2016|upc
+209|https://open.spotify.com/album/6LrFuqr3q8JsCWyxx9mNAc|Baladas Innolvidables, Vol. 7|Nestor Neira|2017|upc
+210|https://open.spotify.com/album/3NOlj0MXa8zQAfpiluXrKo|Baladas Innolvidables, Vol. 6|Nestor Neira|2017|upc
+211|https://open.spotify.com/album/1ilXdtm1ylhpR5bieODGLy|Baladas Innolvidables, Vol. 4|Nestor Neira|2017|upc
+212|https://open.spotify.com/album/55BfTMiGfBXUNzoRQb1Sh8|Bachata Latin|Nestor Neira|2015|upc
+213|https://open.spotify.com/album/0qd1Y5r1uVqUKKDXy4RGi8|Baladas Innolvidables, Vol. 5|Nestor Neira|2017|upc
+214|https://open.spotify.com/album/39wjbKziFv4nGfkdGeCLyE|Baladas Innolvidables, Vol. 2|Nestor Neira|2017|upc
+221|https://open.spotify.com/album/65l9rBdwiLJQ5l5J9oDq6t|Joyas Colombianas, Vol. 2|Grupo Muy Nuestros|2025|upc
+222|https://open.spotify.com/album/73uvhk92a3jtXTFlZR0NvH|Joyas Colombianas, Vol. 1|Grupo Muy Nuestros|2025|upc
+223|https://open.spotify.com/album/74hs0wxhnToVyJu9YmGdNO|Yinneth Y La Kumbia Sabrosa|Yinneth Y La Kumbia Sabrosa|2025|upc
+224|https://open.spotify.com/album/2u3TvLT55Oi8bFKhqIJok1|Salmos Musicalizados, Vol. 6|Congracia|2026|titulo
+225|https://open.spotify.com/album/2shCoj8pAEZmTwgpAjP9ca|Salmos Musicalizados, Vol.3|Congracia|2026|titulo
+226|https://open.spotify.com/album/5hmGYumhvArB9eNuzLkPSQ|Salmos Musicalizados, Vol. 5|Congracia|2026|titulo
+227|https://open.spotify.com/album/6DpeRTMRKu9pIDM8sUtHLd|Salmos Musicalizados, Vol. 1|Congracia|2025|titulo
+228|https://open.spotify.com/album/1C4wttsYnfoeUERqNmzPTA|Salmos, Vol. 5|Porfirio Torres|2000|titulo
+229|https://open.spotify.com/album/64vqD4aDEWfugbGbcYw8uN|Salmos Musicalizados, Vol. 2|Congracia|2025|titulo
+236|https://open.spotify.com/album/0vVK8DQfIYiw2JhsxdShU3|Salmos, Vol. 3|Oracion Diaria|2024|titulo
+237|https://open.spotify.com/album/6jrY9Lve73SPA3ATeMf1xF|Salmos, Vol. 2|Oracion Diaria|2023|titulo
+239|https://open.spotify.com/album/12pY2DfVmur1ORXWovbzgu|Salsa Brothers Tributo|Salsa Brothers|2023|upc
+240|https://open.spotify.com/album/20hJbAKbGRdvRgQf8AlyTU|Tributo a Celina|Maxi Sanz|2025|titulo
+241|https://open.spotify.com/album/4tccoTfluDDjtcswBRjYor|Los Villancicos Más Bellos|Hispano Choir Voices That Inspire|2025|upc
+242|https://open.spotify.com/album/40p7MHpICB4BFWybUeojMW|A Bailar!!!... La Música de Diciembre, Vol. 3|Orquesta La Pesada|2025|upc
+243|https://open.spotify.com/album/7D4NADvYG2b6fJCZhsCt8W|A Bailar!!!... La Música de Diciembre, Vol. 2|Orquesta La Pesada|2025|upc
+244|https://open.spotify.com/album/3ZocYnAxqFreP9URU0gwdi|A Bailar!!!... La Música de Diciembre, Vol. 1|Orquesta La Pesada|2025|upc
+245|https://open.spotify.com/album/4oxIy8810LCAOKWNpsd0Oo|Llegó Diciembre|Fer Toro & Kriollo Sound|2025|upc
+246|https://open.spotify.com/album/68AcHimL8CKgtZXYn1N0m8|Tributo a Celia|Maxi Sanz|2025|titulo
+247|https://open.spotify.com/album/5arT3VRvPt7i1rc78lLdYg|Diciembre Es Pa' Gozar|Janio Coronado|2025|upc
+248|https://open.spotify.com/album/1aaFB9Q7cKBac0kg61TVs9|La Dulzura de la Navidad|Coro Azúcar|2025|upc
+250|https://open.spotify.com/album/3daSgbXnHZa3hPoX1O9KHY|Carnaval de Barranquilla ¡A Gozar!|Orquesta La Pesada|2026|upc
+251|https://open.spotify.com/album/3SeKOP8Io9Y4OMT9zFZFmT|Vamos a Aprender y a Cuidarnos|Karrusel Kids|2017|upc
+252|https://open.spotify.com/album/2sMCaH1HW7n9o6UoqhLYgk|San Valentín Canciones Para Dedicar, Vol. 2|Nestor Neira|2026|upc
+253|https://open.spotify.com/album/4rJVvfYW5BZY3H7M4yvzGv|San Valentín Canciones Para Dedicar, Vol. 1|Nestor Neira|2026|upc
+254|https://open.spotify.com/album/0VEjEacWS8xOVQ80CJLw3I|San Valentín Canciones Para Enamorar|Nestor Neira|2026|upc
+255|https://open.spotify.com/album/2wXnpmmgO0JuQDZBgGQjGQ|Pa Bailar en Carnaval|Orquesta La Pesada|2026|upc
+256|https://open.spotify.com/album/2xGy9yNWSFZBhzmgztNVun|Tributo A Las Grandes Orquestas, Vol. 4|Orquesta La Pesada|2016|upc
+257|https://open.spotify.com/album/5kI1nmwycRoVbPeJwCKePc|Pesando Duro|Orquesta La Pesada|2017|upc
+258|https://open.spotify.com/album/0BCvSfuPeSKN1TErdgEcJh|Urbano After Party|Janio Coronado|2026|upc
+259|https://open.spotify.com/album/0KlJhGE2I2lKBWx4IA2E0R|Whisky con Soda y Salsa|Janio Coronado|2026|upc
+260|https://open.spotify.com/album/30F1jTioxQODGSChcYLdvJ|En Mi Salsa|Janio Coronado|2026|upc
+261|https://open.spotify.com/album/2r60RNa7xQ0ORSdeWHOlh7|Con La Sonora Monteria|Janio Coronado|2026|upc
+262|https://open.spotify.com/album/5RVxxP3bY84tqHv4gyMWKt|Janio Coronado y Su Kuarteto|Janio Coronado|2026|upc
+263|https://open.spotify.com/album/0XVxW0mbxenlGJ2qryNTlc|Cumbia y Floklore|Janio Coronado|2026|upc
+266|https://open.spotify.com/album/6lrB1kSmd4YtSztVMez79Y|Directo Al Corazón|Grupo Acústiko|2026|upc
