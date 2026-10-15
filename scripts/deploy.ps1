@@ -1,4 +1,4 @@
-# Compila el sitio estático y lo publica en la rama `deploy` (solo el contenido de out/).
+﻿# Compila el sitio estático y lo publica en la rama `deploy` (solo el contenido de out/).
 # En el hosting basta con hacer `git pull` de la rama deploy en la carpeta pública.
 #
 # Uso:  powershell -ExecutionPolicy Bypass -File scripts\deploy.ps1 ["mensaje del commit"]
@@ -43,8 +43,13 @@ if (-not $Mensaje) { $Mensaje = "build: export estático desde main $commit" }
 
 git -C $worktree add -A
 if (git -C $worktree status --porcelain) {
-    git -C $worktree commit -m $Mensaje
+    # el mensaje va por archivo UTF-8 para que git no reciba las tildes en la codificación ANSI de la consola
+    $archivoMsg = Join-Path $env:TEMP "oreorekords-deploy-msg.txt"
+    [IO.File]::WriteAllText($archivoMsg, $Mensaje, (New-Object Text.UTF8Encoding $false))
+    git -C $worktree commit -q -F $archivoMsg
+    Remove-Item $archivoMsg
     git -C $worktree push -u origin deploy
+    if ($LASTEXITCODE -ne 0) { throw "Commit hecho en deploy, pero falló el push a GitHub" }
     Write-Host "Deploy publicado en la rama deploy." -ForegroundColor Green
 } else {
     Write-Host "Sin cambios en el sitio; no hay nada que publicar." -ForegroundColor Yellow
