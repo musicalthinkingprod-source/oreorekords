@@ -60,6 +60,7 @@ def match_valido(i, r, fuente):
     m = r.get(fuente)
     if not m:
         return None
-    if i in ACEPTAR or valido(r["titulo"], r["artista"], m["titulo"], m.get("artista")):
+    # sello_ok: confirmado contra el catálogo del sello (aplicar_sello.py)
+    if i in ACEPTAR or r.get("sello_ok") or valido(r["titulo"], r["artista"], m["titulo"], m.get("artista")):
         return m
     return None

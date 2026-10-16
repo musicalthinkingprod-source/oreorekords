@@ -26,7 +26,7 @@ def spotify_valido(i, r):
     sp = spotify.get(i)
     if not sp:
         return None
-    if i in ACEPTAR:
+    if i in ACEPTAR or cat[i].get("sello_ok"):
         return sp
     if sp["via"] == "upc":
         # el UPC ya identifica el álbum; basta con que el artista coincida y el título se parezca
@@ -48,7 +48,7 @@ def ytm_valido(i, r):
     yt = r.get("ytm")
     if not yt:
         return None
-    if i in ACEPTAR:
+    if i in ACEPTAR or r.get("sello_ok"):
         return yt
     return yt if valido(r["titulo"], r["artista"], yt["titulo"], ytm_artista.get(yt["browseId"], "")) else None
 
@@ -104,7 +104,7 @@ def q(s):
     return urllib.parse.quote(s)
 
 
-EXCLUIR = {38, 132, 146, 165}  # pendientes o con coincidencias dudosas
+EXCLUIR = {132, 146, 165}  # pendientes o con coincidencias dudosas
 salida, sin_datos, slugs, ids_vistos, duplicados = [], [], set(), set(), []
 for i, r in enumerate(cat):
     if i in EXCLUIR:
@@ -117,7 +117,7 @@ for i, r in enumerate(cat):
     ids = {f"sp:{sp['url']}" if sp else None, f"ap:{ap['id']}" if ap else None,
            f"dz:{dz['id']}" if dz else None, f"yt:{yt['browseId']}" if yt else None} - {None}
     if ids & ids_vistos:
-        duplicados.append(f"{r['titulo']} — {r['artista']}")
+        duplicados.append(f"#{i} {r['titulo']} — {r['artista']} ({r['distribuidora']})")
         ids_vistos |= ids
         continue
     ids_vistos |= ids
@@ -197,4 +197,5 @@ for i, r in enumerate(cat):
 print("Publicados:", len(salida), "| sin datos:", len(sin_datos), "| duplicados:", len(duplicados))
 for k in ("spotify", "appleMusic", "youtubeMusic", "youtube", "deezer"):
     print(f"  {k}: {sum(1 for s in salida if k in s['links'])}")
+print("\n".join(duplicados))
 print("  portadas:", sum(1 for s in salida if s["cover"]))

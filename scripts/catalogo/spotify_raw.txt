@@ -20,7 +20,6 @@
 28|https://open.spotify.com/album/1hLA9yADXqpIeF2AsGU5Ae|Tropicalisima|Orquesta La Banda Sonora|2026|titulo
 29|https://open.spotify.com/album/4ABsmEO6WlLyb9dZkYgzmr|La Pesada Con Todos Los Juguetes|Nestor Neira|2016|upc
 30|https://open.spotify.com/album/2bLXeen1xhnrrYyAftjYbv|La Pareja Ideal|Grupo La Pareja Ideal|2026|upc
-34|https://open.spotify.com/album/2cH4kjlmc3FAEV8VV3f5dJ|Eres TODO Para Mí|Dúo Devia|2023|titulo
 36|https://open.spotify.com/album/6ObNzzrrOdhEnUkt43eMWn|A Ritmo De Sonora Vol. 1|Orquesta La Pesada|2026|upc
 37|https://open.spotify.com/album/724PYXb1LImUciYJfloTq8|Grandes Éxitos|Orquesta Internacional Los Niches|2015|titulo
 39|https://open.spotify.com/album/2X1YpuNC1zVD2GXTLPzeCN|GOZADERA TOTAL|Salsa Brothers|2017|upc
@@ -96,7 +95,6 @@
 151|https://open.spotify.com/album/22S8f60UKRG8sc2FolauSg|Clásicos del Bolero Vol.1|Grupo Bohemia|2026|upc
 153|https://open.spotify.com/album/6EvlPffJNVb3jWM8MzeJt2|Tropicales Para Bailar Vol. 1|La Gran Banda|2026|upc
 155|https://open.spotify.com/album/6Y4wEaNWzPeuyaYFHPD0po|Trompeta Magica|Juan Carlos Montiel|2026|upc
-157|https://open.spotify.com/album/6RoUC0xbKqf9kjxiNsITrr|Directo al Corazón Vol.2|Grupo Acústico|2026|titulo
 161|https://open.spotify.com/album/54PFccGaptrMCLEqB04Ubt|Tropicales Para Bailar Vol. 2|La Gran Banda|2026|upc
 163|https://open.spotify.com/album/4AfT8BHWy82EWKAquQWuYq|Tribute The Beatles Box|Diego Garcia|2026|upc
 169|https://open.spotify.com/album/0legPosJku6N2fVZTdcJ8a|Canciones Infantiles Vol.2|Karrusel Kids|2023|upc
@@ -179,3 +177,16 @@
 262|https://open.spotify.com/album/5RVxxP3bY84tqHv4gyMWKt|Janio Coronado y Su Kuarteto|Janio Coronado|2026|upc
 263|https://open.spotify.com/album/0XVxW0mbxenlGJ2qryNTlc|Cumbia y Floklore|Janio Coronado|2026|upc
 266|https://open.spotify.com/album/6lrB1kSmd4YtSztVMez79Y|Directo Al Corazón|Grupo Acústiko|2026|upc
+38|https://open.spotify.com/album/54XSDhejjcL6rGezxbq7LQ|Tenores 3|Los tenores|2026|upc
+32|https://open.spotify.com/album/3hHsiSGP9p9jaALKiAZNy4|Las Mas hermosas Canciones de Amor|Nestor Neira|2026|upc
+34|https://open.spotify.com/album/6rqL0wvssX3FT5VS46mHtI|Eres Todo Para Mí|Nestor Neira|2026|upc
+49|https://open.spotify.com/album/2SDE3gyCtdNdzqbuH6yHUX|Proyecto Cumbia Vol. 1|Proyecto Cumbia Colombia|2026|upc
+77|https://open.spotify.com/album/6O4Ku2wduoGGUWEqFYpl0D|Tenores Vol. 4|Los tenores|2026|upc
+134|https://open.spotify.com/album/11eT3cODNmk5EnxtLH3LIW|Proyecto Cumbia Vol. 2|Proyecto Cumbia Colombia|2026|upc
+140|https://open.spotify.com/album/1THShkn0qHCG0z6SDOXUAw|Tributo a Los Años Maravillosos de la Balada|Grupo Époka|2026|upc
+157|https://open.spotify.com/album/6RoUC0xbKqf9kjxiNsITrr|Directo al Corazón Vol.2|Grupo Acústico|2026|upc
+46|https://open.spotify.com/album/2xhL6Z0spgGaZ9TVnuTTjF|Tuky Tuky Jazz Band Autocton|Tuky Tuky Jazz Band|2026|upc
+52|https://open.spotify.com/album/35YMBBYxX5uedaVsLYjDCh|Grupo Krescendo Brass, Vol. 3|Krescendo Brass|2026|titulo
+63|https://open.spotify.com/album/6HSlShesp9FSWcBcfVX6A5|Grupo Krescendo Brass, Vol. 1|Krescendo Brass|2026|titulo
+99|https://open.spotify.com/album/7GHbyNZZkuRI0PMqI4uO1V|Música Relajante Vol. 2|Doktor Korazón|2026|titulo
+120|https://open.spotify.com/album/0A4LyKDtCeRgTo1RwUEfnR|Musica Relajante Vol. 3|Doktor Korazón|2026|titulo
