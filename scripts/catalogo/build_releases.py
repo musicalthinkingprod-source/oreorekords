@@ -68,6 +68,10 @@ ARTISTAS = {  # nombre normalizado -> nombre a mostrar
     "juliana salazar": "Juliana Salazar",
     "grupo los chachos": "Grupo Los Chachos",
     "compania tributo": "Tributo Big Band",
+    "los tenores": "Los Tenores",
+    "grupo matiz": "Grupo Matiz",
+    "alvaro gonzalez": "Álvaro González",
+    "la banda del merengue": "La Banda Del Merengue",
 }
 
 
@@ -105,24 +109,34 @@ def q(s):
 
 
 EXCLUIR = {132, 146, 165}  # pendientes o con coincidencias dudosas
-salida, sin_datos, slugs, ids_vistos, duplicados = [], [], set(), set(), []
+# filas del Excel + discos del sello que no están en el Excel (extras.py)
+fuentes = []
 for i, r in enumerate(cat):
     if i in EXCLUIR:
         continue
-    ap, dz = match_valido(i, r, "apple"), match_valido(i, r, "deezer")
-    sp, yt = spotify_valido(i, r), ytm_valido(i, r)
+    fuentes.append((f"#{i} {r['titulo']} — {r['artista']} ({r['distribuidora']})", r["titulo"], r["artista"],
+                    match_valido(i, r, "apple"), match_valido(i, r, "deezer"), spotify_valido(i, r), ytm_valido(i, r)))
+for e in json.loads((HERE / "extras.json").read_text("utf-8")):
+    b = e["apple"] or e["deezer"]
+    sp = {"url": e["spotify"], "titulo": b["titulo"]} if e.get("spotify") else None
+    fuentes.append((f"[sello] {b['titulo']} — {b['artista']}", b["titulo"], b["artista"], e["apple"], e["deezer"], sp, e.get("ytm")))
+
+salida, sin_datos, slugs, ids_vistos, duplicados = [], [], set(), set(), []
+for etiqueta, titulo_excel, artista_excel, ap, dz, sp, yt in fuentes:
     if not (ap or dz or sp or yt):
-        sin_datos.append(f"{r['titulo']} — {r['artista']} ({r['distribuidora']})")
+        sin_datos.append(etiqueta.split(" ", 1)[1])
         continue
     ids = {f"sp:{sp['url']}" if sp else None, f"ap:{ap['id']}" if ap else None,
            f"dz:{dz['id']}" if dz else None, f"yt:{yt['browseId']}" if yt else None} - {None}
     if ids & ids_vistos:
-        duplicados.append(f"#{i} {r['titulo']} — {r['artista']} ({r['distribuidora']})")
+        duplicados.append(etiqueta)
         ids_vistos |= ids
         continue
     ids_vistos |= ids
+    r = {"titulo": titulo_excel, "artista": artista_excel}
 
     titulo = (ap or dz or {}).get("titulo") or (sp or {}).get("titulo") or r["titulo"]
+    titulo = re.sub(r"\s+", " ", re.sub(r"\s+-\s+(Single|EP)$", "", titulo)).strip()
     artista = artista_principal(r["artista"])
     fecha = (ap or {}).get("fecha") or (dz or {}).get("fecha") or (f"{sp['año']}-01-01" if sp and sp.get("año") else "")
     if not fecha:
